@@ -1,0 +1,7 @@
+In this study, we imported raw news articles from the LexisNexis (LN) database and the BBC website for use in our academic research, in accordance with the permissions granted by each provider. The dataset used in the analysis, hereafter referred to as the primary dataset, was derived from these raw articles and serves as the starting point for all analyses described below.
+
+Note: Due to the terms of the agreements between NYU and LexisNexis and between NYU and the BBC, the complete raw dataset cannot be publicly shared. However, we have provided a random sample of 100 articles - 25 from each news source — for verification and exploratory purposes. The LLM prompts used in the analysis are included in the main manuscript.
+
+Reviewers who require access to the full dataset solely for the purpose of evaluating the manuscript for publication may contact us at bedoor@nyu.edu. 
+
+Further, anyone affiliated with universities that have a LexisNexis subscription should also be able to retrieve the relevant articles directly through the database.
