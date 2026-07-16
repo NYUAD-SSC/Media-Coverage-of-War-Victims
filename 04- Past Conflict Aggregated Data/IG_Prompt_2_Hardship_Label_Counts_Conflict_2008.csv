@@ -1,0 +1,35 @@
+,Source,Side,Hardship,Instance_Count
+1,AJE,Palestine,Casualties,41
+3,AJE,Palestine,Health and Medical Conditions,2
+2,AJE,Palestine,Displacement and Refugees,1
+0,AJE,Israel,Casualties,3
+9,BBC,Palestine,Casualties,86
+10,BBC,Palestine,"Deprivation, Malnutrition and Hunger",10
+11,BBC,Palestine,Displacement and Refugees,8
+14,BBC,Palestine,Other Hardship,5
+12,BBC,Palestine,Health and Medical Conditions,3
+13,BBC,Palestine,Imprisonment and Detention,1
+4,BBC,Israel,Casualties,26
+7,BBC,Israel,Other Hardship,7
+8,BBC,Israel,Vulnerable and Affected Groups,2
+5,BBC,Israel,"Deprivation, Malnutrition and Hunger",1
+6,BBC,Israel,Health and Medical Conditions,1
+16,CNN,Palestine,Casualties,15
+18,CNN,Palestine,Health and Medical Conditions,3
+17,CNN,Palestine,Displacement and Refugees,1
+19,CNN,Palestine,Other Hardship,1
+15,CNN,Israel,Casualties,3
+27,NYT,Palestine,Casualties,243
+29,NYT,Palestine,Displacement and Refugees,18
+28,NYT,Palestine,"Deprivation, Malnutrition and Hunger",17
+30,NYT,Palestine,Health and Medical Conditions,7
+32,NYT,Palestine,Other Hardship,7
+33,NYT,Palestine,Vulnerable and Affected Groups,2
+31,NYT,Palestine,Imprisonment and Detention,1
+20,NYT,Israel,Casualties,31
+23,NYT,Israel,Health and Medical Conditions,4
+25,NYT,Israel,Other Hardship,4
+24,NYT,Israel,Imprisonment and Detention,2
+21,NYT,Israel,"Deprivation, Malnutrition and Hunger",1
+22,NYT,Israel,Displacement and Refugees,1
+26,NYT,Israel,Vulnerable and Affected Groups,1

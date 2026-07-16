@@ -1,0 +1,9 @@
+,Source,Side,Indiv_Counts,Group_Counts,Indiv_to_Group_Ratio,Year
+1,AJE,Palestine,44,844,0.05,2008
+0,AJE,Israel,3,124,0.02,2008
+3,BBC,Palestine,113,1158,0.1,2008
+2,BBC,Israel,37,220,0.17,2008
+5,CNN,Palestine,20,214,0.09,2008
+4,CNN,Israel,3,49,0.06,2008
+7,NYT,Palestine,295,2187,0.13,2008
+6,NYT,Israel,44,427,0.1,2008

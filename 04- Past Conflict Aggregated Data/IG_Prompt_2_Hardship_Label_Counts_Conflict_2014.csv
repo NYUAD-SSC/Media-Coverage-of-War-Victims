@@ -1,0 +1,52 @@
+,Source,Side,Hardship,Instance_Count
+3,AJE,Palestine,Casualties,110
+5,AJE,Palestine,Displacement and Refugees,38
+4,AJE,Palestine,"Deprivation, Malnutrition and Hunger",16
+7,AJE,Palestine,Imprisonment and Detention,4
+6,AJE,Palestine,Health and Medical Conditions,2
+8,AJE,Palestine,Vulnerable and Affected Groups,2
+0,AJE,Israel,Casualties,14
+1,AJE,Israel,Health and Medical Conditions,1
+2,AJE,Israel,Other Hardship,1
+15,BBC,Palestine,Casualties,63
+16,BBC,Palestine,"Deprivation, Malnutrition and Hunger",6
+17,BBC,Palestine,Displacement and Refugees,5
+18,BBC,Palestine,Imprisonment and Detention,3
+19,BBC,Palestine,Inflicted upon others,1
+20,BBC,Palestine,Other Hardship,1
+21,BBC,Palestine,Vulnerable and Affected Groups,1
+9,BBC,Israel,Casualties,45
+14,BBC,Israel,Vulnerable and Affected Groups,4
+13,BBC,Israel,Other Hardship,2
+10,BBC,Israel,Displacement and Refugees,1
+11,BBC,Israel,Health and Medical Conditions,1
+12,BBC,Israel,Imprisonment and Detention,1
+29,CNN,Palestine,Casualties,111
+30,CNN,Palestine,"Deprivation, Malnutrition and Hunger",21
+31,CNN,Palestine,Displacement and Refugees,21
+32,CNN,Palestine,Health and Medical Conditions,5
+33,CNN,Palestine,Imprisonment and Detention,5
+36,CNN,Palestine,Other Hardship,5
+37,CNN,Palestine,Vulnerable and Affected Groups,2
+34,CNN,Palestine,Inflicted upon others,1
+35,CNN,Palestine,Missing,1
+22,CNN,Israel,Casualties,37
+28,CNN,Israel,Vulnerable and Affected Groups,6
+27,CNN,Israel,Other Hardship,5
+25,CNN,Israel,Imprisonment and Detention,3
+23,CNN,Israel,Displacement and Refugees,2
+26,CNN,Israel,Missing,2
+24,CNN,Israel,Health and Medical Conditions,1
+44,NYT,Palestine,Casualties,156
+46,NYT,Palestine,Displacement and Refugees,29
+45,NYT,Palestine,"Deprivation, Malnutrition and Hunger",9
+49,NYT,Palestine,Other Hardship,8
+47,NYT,Palestine,Health and Medical Conditions,4
+48,NYT,Palestine,Imprisonment and Detention,3
+50,NYT,Palestine,Vulnerable and Affected Groups,3
+38,NYT,Israel,Casualties,57
+42,NYT,Israel,Other Hardship,19
+43,NYT,Israel,Vulnerable and Affected Groups,12
+39,NYT,Israel,Displacement and Refugees,5
+40,NYT,Israel,Health and Medical Conditions,4
+41,NYT,Israel,Imprisonment and Detention,2

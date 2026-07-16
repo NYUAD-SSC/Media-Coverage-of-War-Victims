@@ -1,0 +1,9 @@
+,Source,Side,Indiv_Counts,Group_Counts,Indiv_to_Group_Ratio,Year
+1,AJE,Palestine,30,301,0.1,2012
+0,AJE,Israel,11,117,0.09,2012
+3,BBC,Palestine,42,182,0.23,2012
+2,BBC,Israel,8,88,0.09,2012
+5,CNN,Palestine,39,497,0.08,2012
+4,CNN,Israel,19,269,0.07,2012
+7,NYT,Palestine,63,266,0.24,2012
+6,NYT,Israel,40,179,0.22,2012
