@@ -1,0 +1,108 @@
+05- Report Plots and Tables/Source: Al Jazeera English
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                type_numeric   No. Observations:                23869
+Model:                                 GEE   No. clusters:                     3169
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                  69
+Family:                           Binomial   Mean cluster size:                 7.5
+Dependence structure:         Exchangeable   Num. iterations:                    11
+Date:                     Thu, 16 Jul 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         16:41:57
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           -2.8214      0.077    -36.780      0.000      -2.972      -2.671
+side_numeric     0.0875      0.081      1.084      0.278      -0.071       0.246
+==============================================================================
+Skew:                          3.1719   Kurtosis:                       8.0620
+Centered skew:                 2.3366   Centered kurtosis:              6.2820
+==============================================================================
+
+The odds of an instance being “Individualized” are approximately 9.1% higher on the Palestine side than on the Israel side.
+
+
+
+Source: BBC
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                type_numeric   No. Observations:                14437
+Model:                                 GEE   No. clusters:                     1701
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                  98
+Family:                           Binomial   Mean cluster size:                 8.5
+Dependence structure:         Exchangeable   Num. iterations:                    13
+Date:                     Thu, 16 Jul 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         16:41:57
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           -2.0136      0.053    -37.641      0.000      -2.118      -1.909
+side_numeric    -0.1593      0.058     -2.737      0.006      -0.273      -0.045
+==============================================================================
+Skew:                          2.1733   Kurtosis:                       2.7277
+Centered skew:                 1.6261   Centered kurtosis:              2.8568
+==============================================================================
+
+The odds of an instance being “Individualized” are approximately 14.7% lower on the Palestine side than on the Israel side.
+
+
+
+Source: CNN Wire
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                type_numeric   No. Observations:                14640
+Model:                                 GEE   No. clusters:                     1737
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                  66
+Family:                           Binomial   Mean cluster size:                 8.4
+Dependence structure:         Exchangeable   Num. iterations:                    10
+Date:                     Thu, 16 Jul 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         16:41:58
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           -2.3290      0.067    -34.883      0.000      -2.460      -2.198
+side_numeric    -0.3386      0.085     -3.968      0.000      -0.506      -0.171
+==============================================================================
+Skew:                          2.7611   Kurtosis:                       5.6422
+Centered skew:                 2.1067   Centered kurtosis:              4.4564
+==============================================================================
+
+The odds of an instance being “Individualized” are approximately 28.7% lower on the Palestine side than on the Israel side.
+
+
+
+Source: The New York Times
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                type_numeric   No. Observations:                29820
+Model:                                 GEE   No. clusters:                     3984
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                  85
+Family:                           Binomial   Mean cluster size:                 7.5
+Dependence structure:         Exchangeable   Num. iterations:                    10
+Date:                     Thu, 16 Jul 2026   Scale:                           1.000
+Covariance type:                    robust   Time:                         16:41:59
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           -2.1662      0.042    -51.686      0.000      -2.248      -2.084
+side_numeric    -0.5322      0.051    -10.391      0.000      -0.633      -0.432
+==============================================================================
+Skew:                          2.6889   Kurtosis:                       5.2795
+Centered skew:                 2.0401   Centered kurtosis:              4.5589
+==============================================================================
+
+The odds of an instance being “Individualized” are approximately 41.3% lower on the Palestine side than on the Israel side.
+
+
+
